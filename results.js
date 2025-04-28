@@ -2602,7 +2602,7 @@ window.results = [
             }]
     },
     {
-        'name': 'From 10 to 90 Comparacoes (Crescente)',
+        'name': 'Comparações From 10 to 90  (Crescente)',
         'results': [{
             'array': 10,
             'methods': {
@@ -2704,7 +2704,7 @@ window.results = [
         }]
     },
     {
-        'name': 'From 100 to 1000 Comparacoes (Crescente)',
+        'name': 'Comparações From 100 to 1000  (Crescente)',
         'results': [{
             'array': 100,
             'methods': {
@@ -2817,7 +2817,7 @@ window.results = [
         }]
     },
     {
-        'name': 'From 1000 to 10000 Comparacoes (Crescente)',
+        'name': 'Comparações From 1000 to 10000  (Crescente)',
         'results': [{
             'array': 1000,
             'methods': {
@@ -2930,7 +2930,7 @@ window.results = [
         }]
     },
     {
-        'name': 'From 10000 to 90000 Comparacoes (Crescente)',
+        'name': 'Comparações From 10000 to 90000  (Crescente)',
         'results': [{
             'array': 10000,
             'methods': {
@@ -3465,7 +3465,7 @@ window.results = [
         }]
     },
     {
-        'name': 'From 1 to 10 Troca (Aleatorio)',
+        'name': 'Trocas From 1 to 10  (Aleatorio)',
             'results': [{
                 'array': 1,
                 'methods': {
@@ -3578,7 +3578,7 @@ window.results = [
             }]
     },
     {
-        'name': 'From 10 to 100 Troca (Aleatorio)',
+        'name': 'Trocas From 10 to 100  (Aleatorio)',
             'results': [{
                 'array': 10,
                 'methods': {
@@ -3691,7 +3691,7 @@ window.results = [
             }]
     },
     {
-        'name': 'From 100 to 1000 Troca (Aleatorio)',
+        'name': 'Trocas From 100 to 1000  (Aleatorio)',
             'results': [{
                 'array': 100,
                 'methods': {
@@ -3804,7 +3804,7 @@ window.results = [
             }]
     },
     {
-        'name': 'From 1000 to 10000 Troca (Aleatorio)',
+        'name': 'Trocas From 1000 to 10000  (Aleatorio)',
             'results': [{
                 'array': 1000,
                 'methods': {
@@ -3917,7 +3917,7 @@ window.results = [
             }]
     },
     {
-        'name': 'From 10000 to 100000 Troca (Aleatorio)',
+        'name': 'Trocas From 10000 to 100000  (Aleatorio)',
             'results': [{
                 'array': 10000,
                 'methods': {
@@ -4019,7 +4019,7 @@ window.results = [
             }]
     },
     {
-        'name': 'From 1 to 10 Troca (Crescente)',
+        'name': 'Trocas From 1 to 10  (Crescente)',
             'results': [{
                 'array': 1,
                 'methods': {
@@ -4132,7 +4132,7 @@ window.results = [
             }]
     },
     {
-        'name': 'From 10 to 100 Troca (Crescente)',
+        'name': 'Trocas From 10 to 100  (Crescente)',
             'results': [{
                 'array': 10,
                 'methods': {
@@ -4245,7 +4245,7 @@ window.results = [
             }]
     },
     {
-        'name': 'From 100 to 1000 Troca (Crescente)',
+        'name': 'Trocas From 100 to 1000  (Crescente)',
             'results': [{
                 'array': 100,
                 'methods': {
@@ -4358,7 +4358,7 @@ window.results = [
             }]
     },
     {
-        'name': 'From 1000 to 10000 Troca (Crescente)',
+        'name': 'Trocas From 1000 to 10000  (Crescente)',
             'results': [{
                 'array': 1000,
                 'methods': {
@@ -4471,7 +4471,7 @@ window.results = [
             }]
     },
     {
-        'name': 'From 10000 to 100000 Troca (Crescente)',
+        'name': 'Trocas From 10000 to 100000  (Crescente)',
             'results': [{
                 'array': 10000,
                 'methods': {
@@ -4573,7 +4573,7 @@ window.results = [
             }]
     },
     {
-        'name': 'From 1 to 10 Troca (Decrescente)',
+        'name': 'Trocas From 1 to 10  (Decrescente)',
             'results': [{
                 'array': 1,
                 'methods': {
@@ -4686,7 +4686,7 @@ window.results = [
             }]
     },
     {
-        'name': 'From 10 to 100 Troca (Decrescente)',
+        'name': 'Trocas From 10 to 100  (Decrescente)',
             'results': [{
                 'array': 10,
                 'methods': {
@@ -4799,7 +4799,7 @@ window.results = [
             }]
     },
     {
-        'name': 'From 100 to 1000 Troca (Decrescente)',
+        'name': 'Trocas From 100 to 1000  (Decrescente)',
             'results': [{
                 'array': 100,
                 'methods': {
@@ -4912,7 +4912,7 @@ window.results = [
             }]
     },
     {
-        'name': 'From 1000 to 10000 Troca (Decrescente)',
+        'name': 'Trocas From 1000 to 10000  (Decrescente)',
             'results': [{
                 'array': 1000,
                 'methods': {
@@ -5025,7 +5025,7 @@ window.results = [
             }]
     },
     {
-        'name': 'From 10000 to 100000 Troca (Decrescente)',
+        'name': 'Trocas From 10000 to 100000  (Decrescente)',
             'results': [{
                 'array': 10000,
                 'methods': {
