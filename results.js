@@ -1618,7 +1618,7 @@ window.results = [
         }]
     },
     {
-        'name': 'From 10 to 90 Comparações (Aleatório)',
+        'name': 'Comparações From 10 to 90 (Aleatório)',
         'results': [{
             'array': 10,
             'methods': {
@@ -1720,7 +1720,7 @@ window.results = [
         }]
     },
     {
-        'name': 'From 100 to 1000 Comparações (Aleatório)',
+        'name': 'Comparações From 100 to 1000 (Aleatório)',
         'results': [{
             'array': 100,
             'methods': {
@@ -1833,7 +1833,7 @@ window.results = [
         }]
     },
     {
-        'name': 'From 1000 to 10000 Comparações (Aleatório)',
+        'name': 'Comparações From 1000 to 10000 (Aleatório)',
         'results': [{
             'array': 1000,
             'methods': {
@@ -1946,7 +1946,7 @@ window.results = [
         }]
     },
     {
-        'name': 'From 10000 to 90000 Comparações (Aleatório)',
+        'name': 'Comparações From 10000 to 90000 (Aleatório)',
         'results': [{
             'array': 10000,
             'methods': {
@@ -2048,7 +2048,7 @@ window.results = [
         }]
     },
     {
-        'name': 'From 1 to 10 Trocas (Quase Ordenado)',
+        'name': 'Trocas From 1 to 10 (Quase Ordenado)',
             'results': [{
                 'array': 1,
                 'methods': {
@@ -2161,7 +2161,7 @@ window.results = [
             }]
     },
     {
-        'name': 'From 10 to 100 Trocas (Quase Ordenado)',
+        'name': 'Trocas From 10 to 100 (Quase Ordenado)',
             'results': [{
                 'array': 10,
                 'methods': {
@@ -2274,7 +2274,7 @@ window.results = [
             }]
     },
     {
-        'name': 'From 100 to 1000 Trocas (Quase Ordenado)',
+        'name': 'Trocas From 100 to 1000 (Quase Ordenado)',
             'results': [{
                 'array': 100,
                 'methods': {
@@ -2387,7 +2387,7 @@ window.results = [
             }]
     },
     {
-        'name': 'From 1000 to 10000 Trocas (Quase Ordenado)',
+        'name': 'Trocas From 1000 to 10000 (Quase Ordenado)',
             'results': [{
                 'array': 1000,
                 'methods': {
@@ -2500,7 +2500,7 @@ window.results = [
             }]
     },
     {
-        'name': 'From 10000 to 100000 Trocas (Quase Ordenado)',
+        'name': 'Trocas From 10000 to 100000 (Quase Ordenado)',
             'results': [{
                 'array': 10000,
                 'methods': {
@@ -3032,7 +3032,7 @@ window.results = [
         }]
     },
     {
-        'name': 'From 10 to 90 Comparações (Decrescente)',
+        'name': 'Comparações From 10 to 90 (Decrescente)',
         'results': [{
             'array': 10,
             'methods': {
@@ -3135,7 +3135,7 @@ window.results = [
     },
 
     {
-        'name': 'From 100 to 1000 Comparações (Decrescente)',
+        'name': 'Comparações From 100 to 1000 (Decrescente)',
         'results': [{
             'array': 100,
             'methods': {
@@ -3249,7 +3249,7 @@ window.results = [
     },
 
     {
-        'name': 'From 1000 to 10000 Comparações (Decrescente)',
+        'name': 'Comparações From 1000 to 10000 (Decrescente)',
         'results': [{
             'array': 1000,
             'methods': {
@@ -3363,7 +3363,7 @@ window.results = [
     },
 
     {
-        'name': 'From 10000 to 90000 Comparações (Decrescente)',
+        'name': 'Comparações From 10000 to 90000 (Decrescente)',
         'results': [{
             'array': 10000,
             'methods': {
@@ -5127,7 +5127,7 @@ window.results = [
             }]
     },
     {
-        'name': 'From 10 to 90 Comparações (quase 49%)',
+        'name': 'Comparações From 10 to 90 (quase 49%)',
         'results': [{
             'array': 10,
             'methods': {
@@ -5230,7 +5230,7 @@ window.results = [
     },
 
     {
-        'name': 'From 100 to 1000 Comparações (quase 49%)',
+        'name': 'Comparações From 100 to 1000 (quase 49%)',
         'results': [{
             'array': 100,
             'methods': {
@@ -5344,7 +5344,7 @@ window.results = [
     },
 
     {
-        'name': 'From 1000 to 10000 Comparações (quase 49%)',
+        'name': 'Comparações From 1000 to 10000 (quase 49%)',
         'results': [{
             'array': 1000,
             'methods': {
@@ -5458,7 +5458,7 @@ window.results = [
     },
 
     {
-        'name': 'From 10000 to 90000 Comparações (quase 49%)',
+        'name': 'Comparações From 10000 to 90000 (quase 49%)',
         'results': [{
             'array': 10000,
             'methods': {
