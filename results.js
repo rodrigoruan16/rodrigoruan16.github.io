@@ -2048,560 +2048,6 @@ window.results = [
         }]
     },
     {
-        'name': 'Trocas From 1 to 10 (Quase Ordenado)',
-            'results': [{
-                'array': 1,
-                'methods': {
-                    'Insertion Sort': 0.0,
-                    'Merge Sort': 0.0,
-                    'Quick Sort': 0.0,
-                    'QuickSort Tradicional': 0.0,
-                    'Selection Sort': 0.0,
-                    'Shell Sort': 0.0
-                }
-            },
-            {
-                'array': 2,
-                'methods': {
-                    'Insertion Sort': 0.0,
-                    'Merge Sort': 0.0,
-                    'Quick Sort': 1.0,
-                    'QuickSort Tradicional': 1.0,
-                    'Selection Sort': 0.0,
-                    'Shell Sort': 1.0
-                }
-            },
-            {
-                'array': 3,
-                'methods': {
-                    'Insertion Sort': 0.0,
-                    'Merge Sort': 0.0,
-                    'Quick Sort': 3.0,
-                    'QuickSort Tradicional': 2.0,
-                    'Selection Sort': 0.0,
-                    'Shell Sort': 2.0
-                }
-            },
-            {
-                'array': 4,
-                'methods': {
-                    'Insertion Sort': 0.0,
-                    'Merge Sort': 0.0,
-                    'Quick Sort': 6.0,
-                    'QuickSort Tradicional': 3.0,
-                    'Selection Sort': 0.0,
-                    'Shell Sort': 5.0
-                }
-            },
-            {
-                'array': 5,
-                'methods': {
-                    'Insertion Sort': 0.0,
-                    'Merge Sort': 0.0,
-                    'Quick Sort': 10.0,
-                    'QuickSort Tradicional': 3.0,
-                    'Selection Sort': 1.0,
-                    'Shell Sort': 8.0
-                }
-            },
-            {
-                'array': 6,
-                'methods': {
-                    'Insertion Sort': 0.0,
-                    'Merge Sort': 0.0,
-                    'Quick Sort': 7.0,
-                    'QuickSort Tradicional': 5.0,
-                    'Selection Sort': 1.0,
-                    'Shell Sort': 9.0
-                }
-            },
-            {
-                'array': 7,
-                'methods': {
-                    'Insertion Sort': 0.0,
-                    'Merge Sort': 0.0,
-                    'Quick Sort': 14.0,
-                    'QuickSort Tradicional': 5.0,
-                    'Selection Sort': 1.0,
-                    'Shell Sort': 13.0
-                }
-            },
-            {
-                'array': 8,
-                'methods': {
-                    'Insertion Sort': 0.0,
-                    'Merge Sort': 0.0,
-                    'Quick Sort': 14.0,
-                    'QuickSort Tradicional': 6.0,
-                    'Selection Sort': 2.0,
-                    'Shell Sort': 27.0
-                }
-            },
-            {
-                'array': 9,
-                'methods': {
-                    'Insertion Sort': 0.0,
-                    'Merge Sort': 0.0,
-                    'Quick Sort': 14.0,
-                    'QuickSort Tradicional': 11.0,
-                    'Selection Sort': 4.0,
-                    'Shell Sort': 28.0
-                }
-            },
-            {
-                'array': 10,
-                'methods': {
-                    'Insertion Sort': 0.0,
-                    'Merge Sort': 0.0,
-                    'Quick Sort': 15.0,
-                    'QuickSort Tradicional': 10.0,
-                    'Selection Sort': 4.0,
-                    'Shell Sort': 30.0
-                }
-            }]
-    },
-    {
-        'name': 'Trocas From 10 to 100 (Quase Ordenado)',
-            'results': [{
-                'array': 10,
-                'methods': {
-                    'Insertion Sort': 0.0,
-                    'Merge Sort': 0.0,
-                    'Quick Sort': 15.0,
-                    'QuickSort Tradicional': 10.0,
-                    'Selection Sort': 4.0,
-                    'Shell Sort': 30.0
-                }
-            },
-            {
-                'array': 20,
-                'methods': {
-                    'Insertion Sort': 0.0,
-                    'Merge Sort': 0.0,
-                    'Quick Sort': 53.0,
-                    'QuickSort Tradicional': 24.0,
-                    'Selection Sort': 9.0,
-                    'Shell Sort': 89.0
-                }
-            },
-            {
-                'array': 30,
-                'methods': {
-                    'Insertion Sort': 0.0,
-                    'Merge Sort': 0.0,
-                    'Quick Sort': 67.0,
-                    'QuickSort Tradicional': 50.0,
-                    'Selection Sort': 14.0,
-                    'Shell Sort': 162.0
-                }
-            },
-            {
-                'array': 40,
-                'methods': {
-                    'Insertion Sort': 0.0,
-                    'Merge Sort': 0.0,
-                    'Quick Sort': 134.0,
-                    'QuickSort Tradicional': 75.0,
-                    'Selection Sort': 16.0,
-                    'Shell Sort': 256.0
-                }
-            },
-            {
-                'array': 50,
-                'methods': {
-                    'Insertion Sort': 0.0,
-                    'Merge Sort': 0.0,
-                    'Quick Sort': 118.0,
-                    'QuickSort Tradicional': 99.0,
-                    'Selection Sort': 24.0,
-                    'Shell Sort': 339.0
-                }
-            },
-            {
-                'array': 60,
-                'methods': {
-                    'Insertion Sort': 0.0,
-                    'Merge Sort': 0.0,
-                    'Quick Sort': 199.0,
-                    'QuickSort Tradicional': 127.0,
-                    'Selection Sort': 29.0,
-                    'Shell Sort': 411.0
-                }
-            },
-            {
-                'array': 70,
-                'methods': {
-                    'Insertion Sort': 0.0,
-                    'Merge Sort': 0.0,
-                    'Quick Sort': 375.0,
-                    'QuickSort Tradicional': 157.0,
-                    'Selection Sort': 34.0,
-                    'Shell Sort': 537.0
-                }
-            },
-            {
-                'array': 80,
-                'methods': {
-                    'Insertion Sort': 0.0,
-                    'Merge Sort': 0.0,
-                    'Quick Sort': 414.0,
-                    'QuickSort Tradicional': 172.0,
-                    'Selection Sort': 35.0,
-                    'Shell Sort': 667.0
-                }
-            },
-            {
-                'array': 90,
-                'methods': {
-                    'Insertion Sort': 0.0,
-                    'Merge Sort': 0.0,
-                    'Quick Sort': 307.0,
-                    'QuickSort Tradicional': 222.0,
-                    'Selection Sort': 40.0,
-                    'Shell Sort': 744.0
-                }
-            },
-            {
-                'array': 100,
-                'methods': {
-                    'Insertion Sort': 0.0,
-                    'Merge Sort': 0.0,
-                    'Quick Sort': 378.0,
-                    'QuickSort Tradicional': 304.0,
-                    'Selection Sort': 49.0,
-                    'Shell Sort': 892.0
-                }
-            }]
-    },
-    {
-        'name': 'Trocas From 100 to 1000 (Quase Ordenado)',
-            'results': [{
-                'array': 100,
-                'methods': {
-                    'Insertion Sort': 0.0,
-                    'Merge Sort': 0.0,
-                    'Quick Sort': 378.0,
-                    'QuickSort Tradicional': 304.0,
-                    'Selection Sort': 49.0,
-                    'Shell Sort': 892.0
-                }
-            },
-            {
-                'array': 200,
-                'methods': {
-                    'Insertion Sort': 0.0,
-                    'Merge Sort': 0.0,
-                    'Quick Sort': 1114.0,
-                    'QuickSort Tradicional': 684.0,
-                    'Selection Sort': 98.0,
-                    'Shell Sort': 2207.0
-                }
-            },
-            {
-                'array': 300,
-                'methods': {
-                    'Insertion Sort': 0.0,
-                    'Merge Sort': 0.0,
-                    'Quick Sort': 1314.0,
-                    'QuickSort Tradicional': 1056.0,
-                    'Selection Sort': 145.0,
-                    'Shell Sort': 3729.0
-                }
-            },
-            {
-                'array': 400,
-                'methods': {
-                    'Insertion Sort': 0.0,
-                    'Merge Sort': 0.0,
-                    'Quick Sort': 1999.0,
-                    'QuickSort Tradicional': 1724.0,
-                    'Selection Sort': 194.0,
-                    'Shell Sort': 5095.0
-                }
-            },
-            {
-                'array': 500,
-                'methods': {
-                    'Insertion Sort': 0.0,
-                    'Merge Sort': 0.0,
-                    'Quick Sort': 2272.0,
-                    'QuickSort Tradicional': 1720.0,
-                    'Selection Sort': 245.0,
-                    'Shell Sort': 5999.0
-                }
-            },
-            {
-                'array': 600,
-                'methods': {
-                    'Insertion Sort': 0.0,
-                    'Merge Sort': 0.0,
-                    'Quick Sort': 3488.0,
-                    'QuickSort Tradicional': 3115.0,
-                    'Selection Sort': 294.0,
-                    'Shell Sort': 8212.0
-                }
-            },
-            {
-                'array': 700,
-                'methods': {
-                    'Insertion Sort': 0.0,
-                    'Merge Sort': 0.0,
-                    'Quick Sort': 4016.0,
-                    'QuickSort Tradicional': 2829.0,
-                    'Selection Sort': 341.0,
-                    'Shell Sort': 9923.0
-                }
-            },
-            {
-                'array': 800,
-                'methods': {
-                    'Insertion Sort': 0.0,
-                    'Merge Sort': 0.0,
-                    'Quick Sort': 3966.0,
-                    'QuickSort Tradicional': 3408.0,
-                    'Selection Sort': 392.0,
-                    'Shell Sort': 12669.0
-                }
-            },
-            {
-                'array': 900,
-                'methods': {
-                    'Insertion Sort': 0.0,
-                    'Merge Sort': 0.0,
-                    'Quick Sort': 5179.0,
-                    'QuickSort Tradicional': 4210.0,
-                    'Selection Sort': 440.0,
-                    'Shell Sort': 15742.0
-                }
-            },
-            {
-                'array': 1000,
-                'methods': {
-                    'Insertion Sort': 0.0,
-                    'Merge Sort': 0.0,
-                    'Quick Sort': 5200.0,
-                    'QuickSort Tradicional': 5397.0,
-                    'Selection Sort': 488.0,
-                    'Shell Sort': 15590.0
-                }
-            }]
-    },
-    {
-        'name': 'Trocas From 1000 to 10000 (Quase Ordenado)',
-            'results': [{
-                'array': 1000,
-                'methods': {
-                    'Insertion Sort': 0.0,
-                    'Merge Sort': 0.0,
-                    'Quick Sort': 5200.0,
-                    'QuickSort Tradicional': 5397.0,
-                    'Selection Sort': 488.0,
-                    'Shell Sort': 15590.0
-                }
-            },
-            {
-                'array': 2000,
-                'methods': {
-                    'Insertion Sort': 0.0,
-                    'Merge Sort': 0.0,
-                    'Quick Sort': 12485.0,
-                    'QuickSort Tradicional': 10023.0,
-                    'Selection Sort': 978.0,
-                    'Shell Sort': 35440.0
-                }
-            },
-            {
-                'array': 3000,
-                'methods': {
-                    'Insertion Sort': 0.0,
-                    'Merge Sort': 0.0,
-                    'Quick Sort': 22152.0,
-                    'QuickSort Tradicional': 16634.0,
-                    'Selection Sort': 1470.0,
-                    'Shell Sort': 57489.0
-                }
-            },
-            {
-                'array': 4000,
-                'methods': {
-                    'Insertion Sort': 0.0,
-                    'Merge Sort': 0.0,
-                    'Quick Sort': 29955.0,
-                    'QuickSort Tradicional': 26891.0,
-                    'Selection Sort': 1958.0,
-                    'Shell Sort': 85362.0
-                }
-            },
-            {
-                'array': 5000,
-                'methods': {
-                    'Insertion Sort': 0.0,
-                    'Merge Sort': 0.0,
-                    'Quick Sort': 36518.0,
-                    'QuickSort Tradicional': 32217.0,
-                    'Selection Sort': 2445.0,
-                    'Shell Sort': 113564.0
-                }
-            },
-            {
-                'array': 6000,
-                'methods': {
-                    'Insertion Sort': 0.0,
-                    'Merge Sort': 0.0,
-                    'Quick Sort': 48682.0,
-                    'QuickSort Tradicional': 43842.0,
-                    'Selection Sort': 2935.0,
-                    'Shell Sort': 135322.0
-                }
-            },
-            {
-                'array': 7000,
-                'methods': {
-                    'Insertion Sort': 0.0,
-                    'Merge Sort': 0.0,
-                    'Quick Sort': 68836.0,
-                    'QuickSort Tradicional': 43540.0,
-                    'Selection Sort': 3428.0,
-                    'Shell Sort': 167401.0
-                }
-            },
-            {
-                'array': 8000,
-                'methods': {
-                    'Insertion Sort': 0.0,
-                    'Merge Sort': 0.0,
-                    'Quick Sort': 83313.0,
-                    'QuickSort Tradicional': 56105.0,
-                    'Selection Sort': 3919.0,
-                    'Shell Sort': 203071.0
-                }
-            },
-            {
-                'array': 9000,
-                'methods': {
-                    'Insertion Sort': 0.0,
-                    'Merge Sort': 0.0,
-                    'Quick Sort': 78971.0,
-                    'QuickSort Tradicional': 79364.0,
-                    'Selection Sort': 4405.0,
-                    'Shell Sort': 226132.0
-                }
-            },
-            {
-                'array': 10000,
-                'methods': {
-                    'Insertion Sort': 0.0,
-                    'Merge Sort': 0.0,
-                    'Quick Sort': 79395.0,
-                    'QuickSort Tradicional': 62236.0,
-                    'Selection Sort': 4899.0,
-                    'Shell Sort': 276982.0
-                }
-            }]
-    },
-    {
-        'name': 'Trocas From 10000 to 100000 (Quase Ordenado)',
-            'results': [{
-                'array': 10000,
-                'methods': {
-                    'Insertion Sort': 0.0,
-                    'Merge Sort': 0.0,
-                    'Quick Sort': 79395.0,
-                    'QuickSort Tradicional': 62236.0,
-                    'Selection Sort': 4899.0,
-                    'Shell Sort': 276982.0
-                }
-            },
-            {
-                'array': 20000,
-                'methods': {
-                    'Insertion Sort': 0.0,
-                    'Merge Sort': 0.0,
-                    'Quick Sort': 225577.0,
-                    'QuickSort Tradicional': 159576.0,
-                    'Selection Sort': 9797.0,
-                    'Shell Sort': 601060.0
-                }
-            },
-            {
-                'array': 30000,
-                'methods': {
-                    'Insertion Sort': 0.0,
-                    'Merge Sort': 0.0,
-                    'Quick Sort': 328756.0,
-                    'QuickSort Tradicional': 252366.0,
-                    'Selection Sort': 14694.0,
-                    'Shell Sort': 899427.0
-                }
-            },
-            {
-                'array': 40000,
-                'methods': {
-                    'Insertion Sort': 0.0,
-                    'Merge Sort': 0.0,
-                    'Quick Sort': 422840.0,
-                    'QuickSort Tradicional': 342870.0,
-                    'Selection Sort': 19600.0,
-                    'Shell Sort': 1380055.0
-                }
-            },
-            {
-                'array': 50000,
-                'methods': {
-                    'Insertion Sort': 0.0,
-                    'Merge Sort': 0.0,
-                    'Quick Sort': 529343.0,
-                    'QuickSort Tradicional': 433531.0,
-                    'Selection Sort': 24500.0,
-                    'Shell Sort': 1853054.0
-                }
-            },
-            {
-                'array': 60000,
-                'methods': {
-                    'Insertion Sort': 0.0,
-                    'Merge Sort': 0.0,
-                    'Quick Sort': 643172.0,
-                    'QuickSort Tradicional': 517253.0,
-                    'Selection Sort': 29397.0,
-                    'Shell Sort': 2164950.0
-                }
-            },
-            {
-                'array': 70000,
-                'methods': {
-                    'Insertion Sort': 0.0,
-                    'Merge Sort': 0.0,
-                    'Quick Sort': 864874.0,
-                    'QuickSort Tradicional': 622929.0,
-                    'Selection Sort': 34298.0,
-                    'Shell Sort': 2737372.0
-                }
-            },
-            {
-                'array': 80000,
-                'methods': {
-                    'Insertion Sort': 0.0,
-                    'Merge Sort': 0.0,
-                    'Quick Sort': 872473.0,
-                    'QuickSort Tradicional': 762284.0,
-                    'Selection Sort': 39198.0,
-                    'Shell Sort': 3219049.0
-                }
-            },
-            {
-                'array': 90000,
-                'methods': {
-                    'Insertion Sort': 0.0,
-                    'Merge Sort': 0.0,
-                    'Quick Sort': 1162806.0,
-                    'QuickSort Tradicional': 880511.0,
-                    'Selection Sort': 44096.0,
-                    'Shell Sort': 3505507.0
-                }
-            }]
-    },
-    {
         'name': 'Comparações From 10 to 90  (Crescente)',
         'results': [{
             'array': 10,
@@ -3463,6 +2909,993 @@ window.results = [
                 'Shell Sort': 2036249.0
             }
         }]
+    },
+    {
+        'name': 'Comparações From 10 to 90 (quase 49%)',
+        'results': [{
+            'array': 10,
+            'methods': {
+                'Insertion Sort': 26.0,
+                'Merge Sort': 23.0,
+                'Quick Sort': 21.0,
+                'QuickSort Tradicional': 31.0,
+                'Selection Sort': 45.0,
+                'Shell Sort': 30.0
+            }
+        },
+        {
+            'array': 20,
+            'methods': {
+                'Insertion Sort': 76.0,
+                'Merge Sort': 65.0,
+                'Quick Sort': 73.0,
+                'QuickSort Tradicional': 85.0,
+                'Selection Sort': 190.0,
+                'Shell Sort': 89.0
+            }
+        },
+        {
+            'array': 30,
+            'methods': {
+                'Insertion Sort': 255.0,
+                'Merge Sort': 113.0,
+                'Quick Sort': 133.0,
+                'QuickSort Tradicional': 120.0,
+                'Selection Sort': 435.0,
+                'Shell Sort': 162.0
+            }
+        },
+        {
+            'array': 40,
+            'methods': {
+                'Insertion Sort': 314.0,
+                'Merge Sort': 160.0,
+                'Quick Sort': 236.0,
+                'QuickSort Tradicional': 264.0,
+                'Selection Sort': 780.0,
+                'Shell Sort': 256.0
+            }
+        },
+        {
+            'array': 50,
+            'methods': {
+                'Insertion Sort': 415.0,
+                'Merge Sort': 215.0,
+                'Quick Sort': 265.0,
+                'QuickSort Tradicional': 233.0,
+                'Selection Sort': 1225.0,
+                'Shell Sort': 339.0
+            }
+        },
+        {
+            'array': 60,
+            'methods': {
+                'Insertion Sort': 716.0,
+                'Merge Sort': 273.0,
+                'Quick Sort': 327.0,
+                'QuickSort Tradicional': 336.0,
+                'Selection Sort': 1770.0,
+                'Shell Sort': 411.0
+            }
+        },
+        {
+            'array': 70,
+            'methods': {
+                'Insertion Sort': 905.0,
+                'Merge Sort': 341.0,
+                'Quick Sort': 478.0,
+                'QuickSort Tradicional': 416.0,
+                'Selection Sort': 2415.0,
+                'Shell Sort': 537.0
+            }
+        },
+        {
+            'array': 80,
+            'methods': {
+                'Insertion Sort': 1002.0,
+                'Merge Sort': 414.0,
+                'Quick Sort': 570.0,
+                'QuickSort Tradicional': 443.0,
+                'Selection Sort': 3160.0,
+                'Shell Sort': 667.0
+            }
+        },
+        {
+            'array': 90,
+            'methods': {
+                'Insertion Sort': 1569.0,
+                'Merge Sort': 477.0,
+                'Quick Sort': 595.0,
+                'QuickSort Tradicional': 549.0,
+                'Selection Sort': 4005.0,
+                'Shell Sort': 744.0
+            }
+        }]
+    },
+
+    {
+        'name': 'Comparações From 100 to 1000 (quase 49%)',
+        'results': [{
+            'array': 100,
+            'methods': {
+                'Insertion Sort': 1888.0,
+                'Merge Sort': 551.0,
+                'Quick Sort': 633.0,
+                'QuickSort Tradicional': 748.0,
+                'Selection Sort': 4950.0,
+                'Shell Sort': 892.0
+            }
+        },
+        {
+            'array': 200,
+            'methods': {
+                'Insertion Sort': 8008.0,
+                'Merge Sort': 1284.0,
+                'Quick Sort': 1705.0,
+                'QuickSort Tradicional': 1458.0,
+                'Selection Sort': 19900.0,
+                'Shell Sort': 2207.0
+            }
+        },
+        {
+            'array': 300,
+            'methods': {
+                'Insertion Sort': 18126.0,
+                'Merge Sort': 2110.0,
+                'Quick Sort': 2420.0,
+                'QuickSort Tradicional': 2677.0,
+                'Selection Sort': 44850.0,
+                'Shell Sort': 3729.0
+            }
+        },
+        {
+            'array': 400,
+            'methods': {
+                'Insertion Sort': 28639.0,
+                'Merge Sort': 2942.0,
+                'Quick Sort': 4234.0,
+                'QuickSort Tradicional': 3928.0,
+                'Selection Sort': 79800.0,
+                'Shell Sort': 5095.0
+            }
+        },
+        {
+            'array': 500,
+            'methods': {
+                'Insertion Sort': 41926.0,
+                'Merge Sort': 3819.0,
+                'Quick Sort': 5104.0,
+                'QuickSort Tradicional': 5954.0,
+                'Selection Sort': 124750.0,
+                'Shell Sort': 5999.0
+            }
+        },
+        {
+            'array': 600,
+            'methods': {
+                'Insertion Sort': 58857.0,
+                'Merge Sort': 4775.0,
+                'Quick Sort': 6371.0,
+                'QuickSort Tradicional': 6861.0,
+                'Selection Sort': 179700.0,
+                'Shell Sort': 8212.0
+            }
+        },
+        {
+            'array': 700,
+            'methods': {
+                'Insertion Sort': 92740.0,
+                'Merge Sort': 5676.0,
+                'Quick Sort': 8004.0,
+                'QuickSort Tradicional': 9263.0,
+                'Selection Sort': 244650.0,
+                'Shell Sort': 9923.0
+            }
+        },
+        {
+            'array': 800,
+            'methods': {
+                'Insertion Sort': 114325.0,
+                'Merge Sort': 6743.0,
+                'Quick Sort': 8548.0,
+                'QuickSort Tradicional': 8059.0,
+                'Selection Sort': 319600.0,
+                'Shell Sort': 12669.0
+            }
+        },
+        {
+            'array': 900,
+            'methods': {
+                'Insertion Sort': 144459.0,
+                'Merge Sort': 7674.0,
+                'Quick Sort': 9516.0,
+                'QuickSort Tradicional': 9986.0,
+                'Selection Sort': 404550.0,
+                'Shell Sort': 15742.0
+            }
+        },
+        {
+            'array': 1000,
+            'methods': {
+                'Insertion Sort': 173267.0,
+                'Merge Sort': 8611.0,
+                'Quick Sort': 11442.0,
+                'QuickSort Tradicional': 15026.0,
+                'Selection Sort': 499500.0,
+                'Shell Sort': 15590.0
+            }
+        }]
+    },
+
+    {
+        'name': 'Comparações From 1000 to 10000 (quase 49%)',
+        'results': [{
+            'array': 1000,
+            'methods': {
+                'Insertion Sort': 173267.0,
+                'Merge Sort': 8611.0,
+                'Quick Sort': 11442.0,
+                'QuickSort Tradicional': 15026.0,
+                'Selection Sort': 499500.0,
+                'Shell Sort': 15590.0
+            }
+        },
+        {
+            'array': 2000,
+            'methods': {
+                'Insertion Sort': 698273.0,
+                'Merge Sort': 19228.0,
+                'Quick Sort': 25225.0,
+                'QuickSort Tradicional': 23843.0,
+                'Selection Sort': 1999000.0,
+                'Shell Sort': 35440.0
+            }
+        },
+        {
+            'array': 3000,
+            'methods': {
+                'Insertion Sort': 1525766.0,
+                'Merge Sort': 30749.0,
+                'Quick Sort': 42834.0,
+                'QuickSort Tradicional': 42606.0,
+                'Selection Sort': 4498500.0,
+                'Shell Sort': 57489.0
+            }
+        },
+        {
+            'array': 4000,
+            'methods': {
+                'Insertion Sort': 2770881.0,
+                'Merge Sort': 42600.0,
+                'Quick Sort': 65458.0,
+                'QuickSort Tradicional': 58180.0,
+                'Selection Sort': 7998000.0,
+                'Shell Sort': 85362.0
+            }
+        },
+        {
+            'array': 5000,
+            'methods': {
+                'Insertion Sort': 4350458.0,
+                'Merge Sort': 54975.0,
+                'Quick Sort': 74736.0,
+                'QuickSort Tradicional': 75893.0,
+                'Selection Sort': 12497500.0,
+                'Shell Sort': 113564.0
+            }
+        },
+        {
+            'array': 6000,
+            'methods': {
+                'Insertion Sort': 6288102.0,
+                'Merge Sort': 67693.0,
+                'Quick Sort': 92838.0,
+                'QuickSort Tradicional': 97870.0,
+                'Selection Sort': 17997000.0,
+                'Shell Sort': 135322.0
+            }
+        },
+        {
+            'array': 7000,
+            'methods': {
+                'Insertion Sort': 8626481.0,
+                'Merge Sort': 80429.0,
+                'Quick Sort': 119539.0,
+                'QuickSort Tradicional': 103165.0,
+                'Selection Sort': 24496500.0,
+                'Shell Sort': 167401.0
+            }
+        },
+        {
+            'array': 8000,
+            'methods': {
+                'Insertion Sort': 11312178.0,
+                'Merge Sort': 93078.0,
+                'Quick Sort': 144238.0,
+                'QuickSort Tradicional': 134007.0,
+                'Selection Sort': 31996000.0,
+                'Shell Sort': 203071.0
+            }
+        },
+        {
+            'array': 9000,
+            'methods': {
+                'Insertion Sort': 14276153.0,
+                'Merge Sort': 106527.0,
+                'Quick Sort': 136449.0,
+                'QuickSort Tradicional': 152771.0,
+                'Selection Sort': 40495500.0,
+                'Shell Sort': 226132.0
+            }
+        },
+        {
+            'array': 10000,
+            'methods': {
+                'Insertion Sort': 17473272.0,
+                'Merge Sort': 120000.0,
+                'Quick Sort': 155947.0,
+                'QuickSort Tradicional': 158458.0,
+                'Selection Sort': 49995000.0,
+                'Shell Sort': 276982.0
+            }
+        }]
+    },
+
+    {
+        'name': 'Comparações From 10000 to 90000 (quase 49%)',
+        'results': [{
+            'array': 10000,
+            'methods': {
+                'Insertion Sort': 17473272.0,
+                'Merge Sort': 120000.0,
+                'Quick Sort': 155947.0,
+                'QuickSort Tradicional': 158458.0,
+                'Selection Sort': 49995000.0,
+                'Shell Sort': 276982.0
+            }
+        },
+        {
+            'array': 20000,
+            'methods': {
+                'Insertion Sort': 69406626.0,
+                'Merge Sort': 260065.0,
+                'Quick Sort': 412476.0,
+                'QuickSort Tradicional': 365214.0,
+                'Selection Sort': 199990000.0,
+                'Shell Sort': 601060.0
+            }
+        },
+        {
+            'array': 30000,
+            'methods': {
+                'Insertion Sort': 157047573.0,
+                'Merge Sort': 406939.0,
+                'Quick Sort': 581571.0,
+                'QuickSort Tradicional': 723050.0,
+                'Selection Sort': 449985000.0,
+                'Shell Sort': 899427.0
+            }
+        },
+        {
+            'array': 40000,
+            'methods': {
+                'Insertion Sort': 281011339.0,
+                'Merge Sort': 560440.0,
+                'Quick Sort': 780703.0,
+                'QuickSort Tradicional': 733669.0,
+                'Selection Sort': 799980000.0,
+                'Shell Sort': 1380055.0
+            }
+        },
+        {
+            'array': 50000,
+            'methods': {
+                'Insertion Sort': 436466963.0,
+                'Merge Sort': 715681.0,
+                'Quick Sort': 1081769.0,
+                'QuickSort Tradicional': 1078298.0,
+                'Selection Sort': 1249975000.0,
+                'Shell Sort': 1853054.0
+            }
+        },
+        {
+            'array': 60000,
+            'methods': {
+                'Insertion Sort': 632541398.0,
+                'Merge Sort': 874336.0,
+                'Quick Sort': 1225718.0,
+                'QuickSort Tradicional': 1210133.0,
+                'Selection Sort': 1799970000.0,
+                'Shell Sort': 2164950.0
+            }
+        },
+        {
+            'array': 70000,
+            'methods': {
+                'Insertion Sort': 861706303.0,
+                'Merge Sort': 1035825.0,
+                'Quick Sort': 1502152.0,
+                'QuickSort Tradicional': 1571621.0,
+                'Selection Sort': 2449965000.0,
+                'Shell Sort': 2737372.0
+            }
+        },
+        {
+            'array': 80000,
+            'methods': {
+                'Insertion Sort': 1127101982.0,
+                'Merge Sort': 1200614.0,
+                'Quick Sort': 1719716.0,
+                'QuickSort Tradicional': 1742633.0,
+                'Selection Sort': 3199960000.0,
+                'Shell Sort': 3219049.0
+            }
+        },
+        {
+            'array': 90000,
+            'methods': {
+                'Insertion Sort': 1420613241.0,
+                'Merge Sort': 1365855.0,
+                'Quick Sort': 2102718.0,
+                'QuickSort Tradicional': 2055591.0,
+                'Selection Sort': 4049955000.0,
+                'Shell Sort': 3505507.0
+            }
+        }]
+    },
+    {
+        'name': 'Trocas From 1 to 10 (Quase Ordenado)',
+            'results': [{
+                'array': 1,
+                'methods': {
+                    'Insertion Sort': 0.0,
+                    'Merge Sort': 0.0,
+                    'Quick Sort': 0.0,
+                    'QuickSort Tradicional': 0.0,
+                    'Selection Sort': 0.0,
+                    'Shell Sort': 0.0
+                }
+            },
+            {
+                'array': 2,
+                'methods': {
+                    'Insertion Sort': 0.0,
+                    'Merge Sort': 0.0,
+                    'Quick Sort': 1.0,
+                    'QuickSort Tradicional': 1.0,
+                    'Selection Sort': 0.0,
+                    'Shell Sort': 1.0
+                }
+            },
+            {
+                'array': 3,
+                'methods': {
+                    'Insertion Sort': 0.0,
+                    'Merge Sort': 0.0,
+                    'Quick Sort': 3.0,
+                    'QuickSort Tradicional': 2.0,
+                    'Selection Sort': 0.0,
+                    'Shell Sort': 2.0
+                }
+            },
+            {
+                'array': 4,
+                'methods': {
+                    'Insertion Sort': 0.0,
+                    'Merge Sort': 0.0,
+                    'Quick Sort': 6.0,
+                    'QuickSort Tradicional': 3.0,
+                    'Selection Sort': 0.0,
+                    'Shell Sort': 5.0
+                }
+            },
+            {
+                'array': 5,
+                'methods': {
+                    'Insertion Sort': 0.0,
+                    'Merge Sort': 0.0,
+                    'Quick Sort': 10.0,
+                    'QuickSort Tradicional': 3.0,
+                    'Selection Sort': 1.0,
+                    'Shell Sort': 8.0
+                }
+            },
+            {
+                'array': 6,
+                'methods': {
+                    'Insertion Sort': 0.0,
+                    'Merge Sort': 0.0,
+                    'Quick Sort': 7.0,
+                    'QuickSort Tradicional': 5.0,
+                    'Selection Sort': 1.0,
+                    'Shell Sort': 9.0
+                }
+            },
+            {
+                'array': 7,
+                'methods': {
+                    'Insertion Sort': 0.0,
+                    'Merge Sort': 0.0,
+                    'Quick Sort': 14.0,
+                    'QuickSort Tradicional': 5.0,
+                    'Selection Sort': 1.0,
+                    'Shell Sort': 13.0
+                }
+            },
+            {
+                'array': 8,
+                'methods': {
+                    'Insertion Sort': 0.0,
+                    'Merge Sort': 0.0,
+                    'Quick Sort': 14.0,
+                    'QuickSort Tradicional': 6.0,
+                    'Selection Sort': 2.0,
+                    'Shell Sort': 27.0
+                }
+            },
+            {
+                'array': 9,
+                'methods': {
+                    'Insertion Sort': 0.0,
+                    'Merge Sort': 0.0,
+                    'Quick Sort': 14.0,
+                    'QuickSort Tradicional': 11.0,
+                    'Selection Sort': 4.0,
+                    'Shell Sort': 28.0
+                }
+            },
+            {
+                'array': 10,
+                'methods': {
+                    'Insertion Sort': 0.0,
+                    'Merge Sort': 0.0,
+                    'Quick Sort': 15.0,
+                    'QuickSort Tradicional': 10.0,
+                    'Selection Sort': 4.0,
+                    'Shell Sort': 30.0
+                }
+            }]
+    },
+    {
+        'name': 'Trocas From 10 to 100 (Quase Ordenado)',
+            'results': [{
+                'array': 10,
+                'methods': {
+                    'Insertion Sort': 0.0,
+                    'Merge Sort': 0.0,
+                    'Quick Sort': 15.0,
+                    'QuickSort Tradicional': 10.0,
+                    'Selection Sort': 4.0,
+                    'Shell Sort': 30.0
+                }
+            },
+            {
+                'array': 20,
+                'methods': {
+                    'Insertion Sort': 0.0,
+                    'Merge Sort': 0.0,
+                    'Quick Sort': 53.0,
+                    'QuickSort Tradicional': 24.0,
+                    'Selection Sort': 9.0,
+                    'Shell Sort': 89.0
+                }
+            },
+            {
+                'array': 30,
+                'methods': {
+                    'Insertion Sort': 0.0,
+                    'Merge Sort': 0.0,
+                    'Quick Sort': 67.0,
+                    'QuickSort Tradicional': 50.0,
+                    'Selection Sort': 14.0,
+                    'Shell Sort': 162.0
+                }
+            },
+            {
+                'array': 40,
+                'methods': {
+                    'Insertion Sort': 0.0,
+                    'Merge Sort': 0.0,
+                    'Quick Sort': 134.0,
+                    'QuickSort Tradicional': 75.0,
+                    'Selection Sort': 16.0,
+                    'Shell Sort': 256.0
+                }
+            },
+            {
+                'array': 50,
+                'methods': {
+                    'Insertion Sort': 0.0,
+                    'Merge Sort': 0.0,
+                    'Quick Sort': 118.0,
+                    'QuickSort Tradicional': 99.0,
+                    'Selection Sort': 24.0,
+                    'Shell Sort': 339.0
+                }
+            },
+            {
+                'array': 60,
+                'methods': {
+                    'Insertion Sort': 0.0,
+                    'Merge Sort': 0.0,
+                    'Quick Sort': 199.0,
+                    'QuickSort Tradicional': 127.0,
+                    'Selection Sort': 29.0,
+                    'Shell Sort': 411.0
+                }
+            },
+            {
+                'array': 70,
+                'methods': {
+                    'Insertion Sort': 0.0,
+                    'Merge Sort': 0.0,
+                    'Quick Sort': 375.0,
+                    'QuickSort Tradicional': 157.0,
+                    'Selection Sort': 34.0,
+                    'Shell Sort': 537.0
+                }
+            },
+            {
+                'array': 80,
+                'methods': {
+                    'Insertion Sort': 0.0,
+                    'Merge Sort': 0.0,
+                    'Quick Sort': 414.0,
+                    'QuickSort Tradicional': 172.0,
+                    'Selection Sort': 35.0,
+                    'Shell Sort': 667.0
+                }
+            },
+            {
+                'array': 90,
+                'methods': {
+                    'Insertion Sort': 0.0,
+                    'Merge Sort': 0.0,
+                    'Quick Sort': 307.0,
+                    'QuickSort Tradicional': 222.0,
+                    'Selection Sort': 40.0,
+                    'Shell Sort': 744.0
+                }
+            },
+            {
+                'array': 100,
+                'methods': {
+                    'Insertion Sort': 0.0,
+                    'Merge Sort': 0.0,
+                    'Quick Sort': 378.0,
+                    'QuickSort Tradicional': 304.0,
+                    'Selection Sort': 49.0,
+                    'Shell Sort': 892.0
+                }
+            }]
+    },
+    {
+        'name': 'Trocas From 100 to 1000 (Quase Ordenado)',
+            'results': [{
+                'array': 100,
+                'methods': {
+                    'Insertion Sort': 0.0,
+                    'Merge Sort': 0.0,
+                    'Quick Sort': 378.0,
+                    'QuickSort Tradicional': 304.0,
+                    'Selection Sort': 49.0,
+                    'Shell Sort': 892.0
+                }
+            },
+            {
+                'array': 200,
+                'methods': {
+                    'Insertion Sort': 0.0,
+                    'Merge Sort': 0.0,
+                    'Quick Sort': 1114.0,
+                    'QuickSort Tradicional': 684.0,
+                    'Selection Sort': 98.0,
+                    'Shell Sort': 2207.0
+                }
+            },
+            {
+                'array': 300,
+                'methods': {
+                    'Insertion Sort': 0.0,
+                    'Merge Sort': 0.0,
+                    'Quick Sort': 1314.0,
+                    'QuickSort Tradicional': 1056.0,
+                    'Selection Sort': 145.0,
+                    'Shell Sort': 3729.0
+                }
+            },
+            {
+                'array': 400,
+                'methods': {
+                    'Insertion Sort': 0.0,
+                    'Merge Sort': 0.0,
+                    'Quick Sort': 1999.0,
+                    'QuickSort Tradicional': 1724.0,
+                    'Selection Sort': 194.0,
+                    'Shell Sort': 5095.0
+                }
+            },
+            {
+                'array': 500,
+                'methods': {
+                    'Insertion Sort': 0.0,
+                    'Merge Sort': 0.0,
+                    'Quick Sort': 2272.0,
+                    'QuickSort Tradicional': 1720.0,
+                    'Selection Sort': 245.0,
+                    'Shell Sort': 5999.0
+                }
+            },
+            {
+                'array': 600,
+                'methods': {
+                    'Insertion Sort': 0.0,
+                    'Merge Sort': 0.0,
+                    'Quick Sort': 3488.0,
+                    'QuickSort Tradicional': 3115.0,
+                    'Selection Sort': 294.0,
+                    'Shell Sort': 8212.0
+                }
+            },
+            {
+                'array': 700,
+                'methods': {
+                    'Insertion Sort': 0.0,
+                    'Merge Sort': 0.0,
+                    'Quick Sort': 4016.0,
+                    'QuickSort Tradicional': 2829.0,
+                    'Selection Sort': 341.0,
+                    'Shell Sort': 9923.0
+                }
+            },
+            {
+                'array': 800,
+                'methods': {
+                    'Insertion Sort': 0.0,
+                    'Merge Sort': 0.0,
+                    'Quick Sort': 3966.0,
+                    'QuickSort Tradicional': 3408.0,
+                    'Selection Sort': 392.0,
+                    'Shell Sort': 12669.0
+                }
+            },
+            {
+                'array': 900,
+                'methods': {
+                    'Insertion Sort': 0.0,
+                    'Merge Sort': 0.0,
+                    'Quick Sort': 5179.0,
+                    'QuickSort Tradicional': 4210.0,
+                    'Selection Sort': 440.0,
+                    'Shell Sort': 15742.0
+                }
+            },
+            {
+                'array': 1000,
+                'methods': {
+                    'Insertion Sort': 0.0,
+                    'Merge Sort': 0.0,
+                    'Quick Sort': 5200.0,
+                    'QuickSort Tradicional': 5397.0,
+                    'Selection Sort': 488.0,
+                    'Shell Sort': 15590.0
+                }
+            }]
+    },
+    {
+        'name': 'Trocas From 1000 to 10000 (Quase Ordenado)',
+            'results': [{
+                'array': 1000,
+                'methods': {
+                    'Insertion Sort': 0.0,
+                    'Merge Sort': 0.0,
+                    'Quick Sort': 5200.0,
+                    'QuickSort Tradicional': 5397.0,
+                    'Selection Sort': 488.0,
+                    'Shell Sort': 15590.0
+                }
+            },
+            {
+                'array': 2000,
+                'methods': {
+                    'Insertion Sort': 0.0,
+                    'Merge Sort': 0.0,
+                    'Quick Sort': 12485.0,
+                    'QuickSort Tradicional': 10023.0,
+                    'Selection Sort': 978.0,
+                    'Shell Sort': 35440.0
+                }
+            },
+            {
+                'array': 3000,
+                'methods': {
+                    'Insertion Sort': 0.0,
+                    'Merge Sort': 0.0,
+                    'Quick Sort': 22152.0,
+                    'QuickSort Tradicional': 16634.0,
+                    'Selection Sort': 1470.0,
+                    'Shell Sort': 57489.0
+                }
+            },
+            {
+                'array': 4000,
+                'methods': {
+                    'Insertion Sort': 0.0,
+                    'Merge Sort': 0.0,
+                    'Quick Sort': 29955.0,
+                    'QuickSort Tradicional': 26891.0,
+                    'Selection Sort': 1958.0,
+                    'Shell Sort': 85362.0
+                }
+            },
+            {
+                'array': 5000,
+                'methods': {
+                    'Insertion Sort': 0.0,
+                    'Merge Sort': 0.0,
+                    'Quick Sort': 36518.0,
+                    'QuickSort Tradicional': 32217.0,
+                    'Selection Sort': 2445.0,
+                    'Shell Sort': 113564.0
+                }
+            },
+            {
+                'array': 6000,
+                'methods': {
+                    'Insertion Sort': 0.0,
+                    'Merge Sort': 0.0,
+                    'Quick Sort': 48682.0,
+                    'QuickSort Tradicional': 43842.0,
+                    'Selection Sort': 2935.0,
+                    'Shell Sort': 135322.0
+                }
+            },
+            {
+                'array': 7000,
+                'methods': {
+                    'Insertion Sort': 0.0,
+                    'Merge Sort': 0.0,
+                    'Quick Sort': 68836.0,
+                    'QuickSort Tradicional': 43540.0,
+                    'Selection Sort': 3428.0,
+                    'Shell Sort': 167401.0
+                }
+            },
+            {
+                'array': 8000,
+                'methods': {
+                    'Insertion Sort': 0.0,
+                    'Merge Sort': 0.0,
+                    'Quick Sort': 83313.0,
+                    'QuickSort Tradicional': 56105.0,
+                    'Selection Sort': 3919.0,
+                    'Shell Sort': 203071.0
+                }
+            },
+            {
+                'array': 9000,
+                'methods': {
+                    'Insertion Sort': 0.0,
+                    'Merge Sort': 0.0,
+                    'Quick Sort': 78971.0,
+                    'QuickSort Tradicional': 79364.0,
+                    'Selection Sort': 4405.0,
+                    'Shell Sort': 226132.0
+                }
+            },
+            {
+                'array': 10000,
+                'methods': {
+                    'Insertion Sort': 0.0,
+                    'Merge Sort': 0.0,
+                    'Quick Sort': 79395.0,
+                    'QuickSort Tradicional': 62236.0,
+                    'Selection Sort': 4899.0,
+                    'Shell Sort': 276982.0
+                }
+            }]
+    },
+    {
+        'name': 'Trocas From 10000 to 100000 (Quase Ordenado)',
+            'results': [{
+                'array': 10000,
+                'methods': {
+                    'Insertion Sort': 0.0,
+                    'Merge Sort': 0.0,
+                    'Quick Sort': 79395.0,
+                    'QuickSort Tradicional': 62236.0,
+                    'Selection Sort': 4899.0,
+                    'Shell Sort': 276982.0
+                }
+            },
+            {
+                'array': 20000,
+                'methods': {
+                    'Insertion Sort': 0.0,
+                    'Merge Sort': 0.0,
+                    'Quick Sort': 225577.0,
+                    'QuickSort Tradicional': 159576.0,
+                    'Selection Sort': 9797.0,
+                    'Shell Sort': 601060.0
+                }
+            },
+            {
+                'array': 30000,
+                'methods': {
+                    'Insertion Sort': 0.0,
+                    'Merge Sort': 0.0,
+                    'Quick Sort': 328756.0,
+                    'QuickSort Tradicional': 252366.0,
+                    'Selection Sort': 14694.0,
+                    'Shell Sort': 899427.0
+                }
+            },
+            {
+                'array': 40000,
+                'methods': {
+                    'Insertion Sort': 0.0,
+                    'Merge Sort': 0.0,
+                    'Quick Sort': 422840.0,
+                    'QuickSort Tradicional': 342870.0,
+                    'Selection Sort': 19600.0,
+                    'Shell Sort': 1380055.0
+                }
+            },
+            {
+                'array': 50000,
+                'methods': {
+                    'Insertion Sort': 0.0,
+                    'Merge Sort': 0.0,
+                    'Quick Sort': 529343.0,
+                    'QuickSort Tradicional': 433531.0,
+                    'Selection Sort': 24500.0,
+                    'Shell Sort': 1853054.0
+                }
+            },
+            {
+                'array': 60000,
+                'methods': {
+                    'Insertion Sort': 0.0,
+                    'Merge Sort': 0.0,
+                    'Quick Sort': 643172.0,
+                    'QuickSort Tradicional': 517253.0,
+                    'Selection Sort': 29397.0,
+                    'Shell Sort': 2164950.0
+                }
+            },
+            {
+                'array': 70000,
+                'methods': {
+                    'Insertion Sort': 0.0,
+                    'Merge Sort': 0.0,
+                    'Quick Sort': 864874.0,
+                    'QuickSort Tradicional': 622929.0,
+                    'Selection Sort': 34298.0,
+                    'Shell Sort': 2737372.0
+                }
+            },
+            {
+                'array': 80000,
+                'methods': {
+                    'Insertion Sort': 0.0,
+                    'Merge Sort': 0.0,
+                    'Quick Sort': 872473.0,
+                    'QuickSort Tradicional': 762284.0,
+                    'Selection Sort': 39198.0,
+                    'Shell Sort': 3219049.0
+                }
+            },
+            {
+                'array': 90000,
+                'methods': {
+                    'Insertion Sort': 0.0,
+                    'Merge Sort': 0.0,
+                    'Quick Sort': 1162806.0,
+                    'QuickSort Tradicional': 880511.0,
+                    'Selection Sort': 44096.0,
+                    'Shell Sort': 3505507.0
+                }
+            }]
     },
     {
         'name': 'Trocas From 1 to 10  (Aleatorio)',
@@ -5125,438 +5558,5 @@ window.results = [
                     'Shell Sort': 1350009.0
                 }
             }]
-    },
-    {
-        'name': 'Comparações From 10 to 90 (quase 49%)',
-        'results': [{
-            'array': 10,
-            'methods': {
-                'Insertion Sort': 26.0,
-                'Merge Sort': 23.0,
-                'Quick Sort': 21.0,
-                'QuickSort Tradicional': 31.0,
-                'Selection Sort': 45.0,
-                'Shell Sort': 30.0
-            }
-        },
-        {
-            'array': 20,
-            'methods': {
-                'Insertion Sort': 76.0,
-                'Merge Sort': 65.0,
-                'Quick Sort': 73.0,
-                'QuickSort Tradicional': 85.0,
-                'Selection Sort': 190.0,
-                'Shell Sort': 89.0
-            }
-        },
-        {
-            'array': 30,
-            'methods': {
-                'Insertion Sort': 255.0,
-                'Merge Sort': 113.0,
-                'Quick Sort': 133.0,
-                'QuickSort Tradicional': 120.0,
-                'Selection Sort': 435.0,
-                'Shell Sort': 162.0
-            }
-        },
-        {
-            'array': 40,
-            'methods': {
-                'Insertion Sort': 314.0,
-                'Merge Sort': 160.0,
-                'Quick Sort': 236.0,
-                'QuickSort Tradicional': 264.0,
-                'Selection Sort': 780.0,
-                'Shell Sort': 256.0
-            }
-        },
-        {
-            'array': 50,
-            'methods': {
-                'Insertion Sort': 415.0,
-                'Merge Sort': 215.0,
-                'Quick Sort': 265.0,
-                'QuickSort Tradicional': 233.0,
-                'Selection Sort': 1225.0,
-                'Shell Sort': 339.0
-            }
-        },
-        {
-            'array': 60,
-            'methods': {
-                'Insertion Sort': 716.0,
-                'Merge Sort': 273.0,
-                'Quick Sort': 327.0,
-                'QuickSort Tradicional': 336.0,
-                'Selection Sort': 1770.0,
-                'Shell Sort': 411.0
-            }
-        },
-        {
-            'array': 70,
-            'methods': {
-                'Insertion Sort': 905.0,
-                'Merge Sort': 341.0,
-                'Quick Sort': 478.0,
-                'QuickSort Tradicional': 416.0,
-                'Selection Sort': 2415.0,
-                'Shell Sort': 537.0
-            }
-        },
-        {
-            'array': 80,
-            'methods': {
-                'Insertion Sort': 1002.0,
-                'Merge Sort': 414.0,
-                'Quick Sort': 570.0,
-                'QuickSort Tradicional': 443.0,
-                'Selection Sort': 3160.0,
-                'Shell Sort': 667.0
-            }
-        },
-        {
-            'array': 90,
-            'methods': {
-                'Insertion Sort': 1569.0,
-                'Merge Sort': 477.0,
-                'Quick Sort': 595.0,
-                'QuickSort Tradicional': 549.0,
-                'Selection Sort': 4005.0,
-                'Shell Sort': 744.0
-            }
-        }]
-    },
-
-    {
-        'name': 'Comparações From 100 to 1000 (quase 49%)',
-        'results': [{
-            'array': 100,
-            'methods': {
-                'Insertion Sort': 1888.0,
-                'Merge Sort': 551.0,
-                'Quick Sort': 633.0,
-                'QuickSort Tradicional': 748.0,
-                'Selection Sort': 4950.0,
-                'Shell Sort': 892.0
-            }
-        },
-        {
-            'array': 200,
-            'methods': {
-                'Insertion Sort': 8008.0,
-                'Merge Sort': 1284.0,
-                'Quick Sort': 1705.0,
-                'QuickSort Tradicional': 1458.0,
-                'Selection Sort': 19900.0,
-                'Shell Sort': 2207.0
-            }
-        },
-        {
-            'array': 300,
-            'methods': {
-                'Insertion Sort': 18126.0,
-                'Merge Sort': 2110.0,
-                'Quick Sort': 2420.0,
-                'QuickSort Tradicional': 2677.0,
-                'Selection Sort': 44850.0,
-                'Shell Sort': 3729.0
-            }
-        },
-        {
-            'array': 400,
-            'methods': {
-                'Insertion Sort': 28639.0,
-                'Merge Sort': 2942.0,
-                'Quick Sort': 4234.0,
-                'QuickSort Tradicional': 3928.0,
-                'Selection Sort': 79800.0,
-                'Shell Sort': 5095.0
-            }
-        },
-        {
-            'array': 500,
-            'methods': {
-                'Insertion Sort': 41926.0,
-                'Merge Sort': 3819.0,
-                'Quick Sort': 5104.0,
-                'QuickSort Tradicional': 5954.0,
-                'Selection Sort': 124750.0,
-                'Shell Sort': 5999.0
-            }
-        },
-        {
-            'array': 600,
-            'methods': {
-                'Insertion Sort': 58857.0,
-                'Merge Sort': 4775.0,
-                'Quick Sort': 6371.0,
-                'QuickSort Tradicional': 6861.0,
-                'Selection Sort': 179700.0,
-                'Shell Sort': 8212.0
-            }
-        },
-        {
-            'array': 700,
-            'methods': {
-                'Insertion Sort': 92740.0,
-                'Merge Sort': 5676.0,
-                'Quick Sort': 8004.0,
-                'QuickSort Tradicional': 9263.0,
-                'Selection Sort': 244650.0,
-                'Shell Sort': 9923.0
-            }
-        },
-        {
-            'array': 800,
-            'methods': {
-                'Insertion Sort': 114325.0,
-                'Merge Sort': 6743.0,
-                'Quick Sort': 8548.0,
-                'QuickSort Tradicional': 8059.0,
-                'Selection Sort': 319600.0,
-                'Shell Sort': 12669.0
-            }
-        },
-        {
-            'array': 900,
-            'methods': {
-                'Insertion Sort': 144459.0,
-                'Merge Sort': 7674.0,
-                'Quick Sort': 9516.0,
-                'QuickSort Tradicional': 9986.0,
-                'Selection Sort': 404550.0,
-                'Shell Sort': 15742.0
-            }
-        },
-        {
-            'array': 1000,
-            'methods': {
-                'Insertion Sort': 173267.0,
-                'Merge Sort': 8611.0,
-                'Quick Sort': 11442.0,
-                'QuickSort Tradicional': 15026.0,
-                'Selection Sort': 499500.0,
-                'Shell Sort': 15590.0
-            }
-        }]
-    },
-
-    {
-        'name': 'Comparações From 1000 to 10000 (quase 49%)',
-        'results': [{
-            'array': 1000,
-            'methods': {
-                'Insertion Sort': 173267.0,
-                'Merge Sort': 8611.0,
-                'Quick Sort': 11442.0,
-                'QuickSort Tradicional': 15026.0,
-                'Selection Sort': 499500.0,
-                'Shell Sort': 15590.0
-            }
-        },
-        {
-            'array': 2000,
-            'methods': {
-                'Insertion Sort': 698273.0,
-                'Merge Sort': 19228.0,
-                'Quick Sort': 25225.0,
-                'QuickSort Tradicional': 23843.0,
-                'Selection Sort': 1999000.0,
-                'Shell Sort': 35440.0
-            }
-        },
-        {
-            'array': 3000,
-            'methods': {
-                'Insertion Sort': 1525766.0,
-                'Merge Sort': 30749.0,
-                'Quick Sort': 42834.0,
-                'QuickSort Tradicional': 42606.0,
-                'Selection Sort': 4498500.0,
-                'Shell Sort': 57489.0
-            }
-        },
-        {
-            'array': 4000,
-            'methods': {
-                'Insertion Sort': 2770881.0,
-                'Merge Sort': 42600.0,
-                'Quick Sort': 65458.0,
-                'QuickSort Tradicional': 58180.0,
-                'Selection Sort': 7998000.0,
-                'Shell Sort': 85362.0
-            }
-        },
-        {
-            'array': 5000,
-            'methods': {
-                'Insertion Sort': 4350458.0,
-                'Merge Sort': 54975.0,
-                'Quick Sort': 74736.0,
-                'QuickSort Tradicional': 75893.0,
-                'Selection Sort': 12497500.0,
-                'Shell Sort': 113564.0
-            }
-        },
-        {
-            'array': 6000,
-            'methods': {
-                'Insertion Sort': 6288102.0,
-                'Merge Sort': 67693.0,
-                'Quick Sort': 92838.0,
-                'QuickSort Tradicional': 97870.0,
-                'Selection Sort': 17997000.0,
-                'Shell Sort': 135322.0
-            }
-        },
-        {
-            'array': 7000,
-            'methods': {
-                'Insertion Sort': 8626481.0,
-                'Merge Sort': 80429.0,
-                'Quick Sort': 119539.0,
-                'QuickSort Tradicional': 103165.0,
-                'Selection Sort': 24496500.0,
-                'Shell Sort': 167401.0
-            }
-        },
-        {
-            'array': 8000,
-            'methods': {
-                'Insertion Sort': 11312178.0,
-                'Merge Sort': 93078.0,
-                'Quick Sort': 144238.0,
-                'QuickSort Tradicional': 134007.0,
-                'Selection Sort': 31996000.0,
-                'Shell Sort': 203071.0
-            }
-        },
-        {
-            'array': 9000,
-            'methods': {
-                'Insertion Sort': 14276153.0,
-                'Merge Sort': 106527.0,
-                'Quick Sort': 136449.0,
-                'QuickSort Tradicional': 152771.0,
-                'Selection Sort': 40495500.0,
-                'Shell Sort': 226132.0
-            }
-        },
-        {
-            'array': 10000,
-            'methods': {
-                'Insertion Sort': 17473272.0,
-                'Merge Sort': 120000.0,
-                'Quick Sort': 155947.0,
-                'QuickSort Tradicional': 158458.0,
-                'Selection Sort': 49995000.0,
-                'Shell Sort': 276982.0
-            }
-        }]
-    },
-
-    {
-        'name': 'Comparações From 10000 to 90000 (quase 49%)',
-        'results': [{
-            'array': 10000,
-            'methods': {
-                'Insertion Sort': 17473272.0,
-                'Merge Sort': 120000.0,
-                'Quick Sort': 155947.0,
-                'QuickSort Tradicional': 158458.0,
-                'Selection Sort': 49995000.0,
-                'Shell Sort': 276982.0
-            }
-        },
-        {
-            'array': 20000,
-            'methods': {
-                'Insertion Sort': 69406626.0,
-                'Merge Sort': 260065.0,
-                'Quick Sort': 412476.0,
-                'QuickSort Tradicional': 365214.0,
-                'Selection Sort': 199990000.0,
-                'Shell Sort': 601060.0
-            }
-        },
-        {
-            'array': 30000,
-            'methods': {
-                'Insertion Sort': 157047573.0,
-                'Merge Sort': 406939.0,
-                'Quick Sort': 581571.0,
-                'QuickSort Tradicional': 723050.0,
-                'Selection Sort': 449985000.0,
-                'Shell Sort': 899427.0
-            }
-        },
-        {
-            'array': 40000,
-            'methods': {
-                'Insertion Sort': 281011339.0,
-                'Merge Sort': 560440.0,
-                'Quick Sort': 780703.0,
-                'QuickSort Tradicional': 733669.0,
-                'Selection Sort': 799980000.0,
-                'Shell Sort': 1380055.0
-            }
-        },
-        {
-            'array': 50000,
-            'methods': {
-                'Insertion Sort': 436466963.0,
-                'Merge Sort': 715681.0,
-                'Quick Sort': 1081769.0,
-                'QuickSort Tradicional': 1078298.0,
-                'Selection Sort': 1249975000.0,
-                'Shell Sort': 1853054.0
-            }
-        },
-        {
-            'array': 60000,
-            'methods': {
-                'Insertion Sort': 632541398.0,
-                'Merge Sort': 874336.0,
-                'Quick Sort': 1225718.0,
-                'QuickSort Tradicional': 1210133.0,
-                'Selection Sort': 1799970000.0,
-                'Shell Sort': 2164950.0
-            }
-        },
-        {
-            'array': 70000,
-            'methods': {
-                'Insertion Sort': 861706303.0,
-                'Merge Sort': 1035825.0,
-                'Quick Sort': 1502152.0,
-                'QuickSort Tradicional': 1571621.0,
-                'Selection Sort': 2449965000.0,
-                'Shell Sort': 2737372.0
-            }
-        },
-        {
-            'array': 80000,
-            'methods': {
-                'Insertion Sort': 1127101982.0,
-                'Merge Sort': 1200614.0,
-                'Quick Sort': 1719716.0,
-                'QuickSort Tradicional': 1742633.0,
-                'Selection Sort': 3199960000.0,
-                'Shell Sort': 3219049.0
-            }
-        },
-        {
-            'array': 90000,
-            'methods': {
-                'Insertion Sort': 1420613241.0,
-                'Merge Sort': 1365855.0,
-                'Quick Sort': 2102718.0,
-                'QuickSort Tradicional': 2055591.0,
-                'Selection Sort': 4049955000.0,
-                'Shell Sort': 3505507.0
-            }
-        }]
     }
 ]
